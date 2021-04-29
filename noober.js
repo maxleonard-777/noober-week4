@@ -6,26 +6,8 @@ window.addEventListener('DOMContentLoaded', async function() {
   console.dir(json)
 
   // 🔥 start here: write the recipe (algorithm), then write the code
-  
-  // Store into memory the name, phone number, and starting and ending address
 
-  // let passengerFirstName = passengerDetails.first 
-  // let passengerLastName = passengerDetails.last 
-  // let passengerNumber = passengerDetails.phoneNumber 
-
-  // let startAdress = pickup.address
-  // let startCity = pickup.city 
-  // let startState = pickup.state 
-  // let startZip = pickup.zip 
-
-  // let endAdress = dropoff.address
-  // let endCity = dropoff.city 
-  // let endState = dropoff.state 
-  // let endZip = dropoff.zip 
-
-  // console.dir(pickup)
  // Recipe:
-
   
    // Loop through the rides data
   for (let i=0; i < json.length; i++) {
